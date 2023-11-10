@@ -1,3 +1,4 @@
+## Basic libraries
 click==6.7
 Flask==1.0.2
 itsdangerous==0.24
@@ -6,3 +7,6 @@ MarkupSafe==1.1.0
 uWSGI==2.0.17.1
 Werkzeug==0.14.1
 
+## App libraries starts here
+
+## App libraries ends here
